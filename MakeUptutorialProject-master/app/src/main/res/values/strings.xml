@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidGridLayout</string>
+    <string name="title_activity_two">activityTwo</string>
+    <string name="title_activity_three">Activity_three</string>
+</resources>
